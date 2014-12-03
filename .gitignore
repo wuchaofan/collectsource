@@ -52,3 +52,4 @@ docs/_build/
 
 # PyBuilder
 target/
+static/jquery.mobile-1.4.5/demos
