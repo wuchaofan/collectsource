@@ -1,0 +1,4 @@
+collectsource
+=============
+
+collect interesting things
